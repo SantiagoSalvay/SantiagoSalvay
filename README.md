@@ -93,7 +93,7 @@
 ## <b>¡Contáctame!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 <br>
 <div align="center">
-    <a href="mailto:juansantiagosalvaymendez@gmail.com">
+    <a href="juansantiagosalvaymendez@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp; 
