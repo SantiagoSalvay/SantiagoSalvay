@@ -6,7 +6,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="40"> **About Me**
+## **About Me**
 
 <br>
 
@@ -81,7 +81,7 @@
 <br>
 <br>
 
-## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40"> **Contact Me!**<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+## **Contact Me!**<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 <br>
 <div align="center">
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juansantiagosalvaymendez@gmail.com">
