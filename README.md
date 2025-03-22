@@ -32,7 +32,7 @@
     
 - **Front-End Development**:
 
-   [![Front-End](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+   [![Front-End](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 <br>
 
@@ -44,7 +44,7 @@
 
 - **Extras**:
 
- [![Extras](https://skillicons.dev/icons?i=powershell,md)](https://skillicons.dev)
+ [![Extras](https://skillicons.dev/icons?i=powershell,md,npm)](https://skillicons.dev)
    
   <br>
 
