@@ -32,7 +32,7 @@
     
 - **Front-End Development**:
 
-   [![Front-End](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+   [![Front-End](https://skillicons.dev/icons?i=js,html,css,react,angular,bootstrap,tailwind,ts,vite,vue)](https://skillicons.dev)
 
 <br>
 
@@ -44,13 +44,13 @@
 
 - **Extras**:
 
- [![Extras](https://skillicons.dev/icons?i=powershell,md,npm)](https://skillicons.dev)
+ [![Extras](https://skillicons.dev/icons?i=powershell,md,npm,pnpm,prisma,supabase)](https://skillicons.dev)
    
   <br>
 
 - **Frameworks**:
   
-	[![Frameworks](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+	[![Frameworks](https://skillicons.dev/icons?i=django,astro,express,nextjs,nodejs)](https://skillicons.dev)
 
 </p>
 
