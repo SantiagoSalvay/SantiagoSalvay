@@ -10,7 +10,7 @@
 
 <br>
 
-- High school programming student
+- Software Developer (Technical Degree)
 - Interested in new technologies
 - Seeking solutions to all problems
 - Open to any work opportunities
